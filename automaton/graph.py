@@ -6,6 +6,7 @@ class Graph(object):
 
 def add_node(graph, node):
   graph.relations.update({node:[]})
+  self.realtions....??
 
 def create_link(graph, nodeA, nodeB):
   link_node(graph, nodeA, nodeB)
